@@ -11,8 +11,10 @@
 ?>
 
 		</div><!-- #main -->
-		<footer id="colophon" class="site-footer" role="contentinfo">
-			Footer content here
+		<footer id="colophon" class="site-footer container" role="contentinfo">
+			<div class="row">
+			15 W 12 St New York NY 10011 tlaquercia@aol.com 617 277 7957 (Boston) 212 242 1107 (New York)			
+			</div>
 		</footer><!-- #colophon -->
 	</div><!-- #page -->
 
